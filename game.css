@@ -1,14 +1,14 @@
 body
 {
-	background: lightblue;
+	background: darkblue;
 }
 
 	.login_div1 , .login_div2
 	{
-		background: white;
+		background: orange;
 		padding: 10px;
 		float: none;
-		border-radius: 15px;
+		border-radius: 5px;
 	}
 
 
@@ -27,7 +27,7 @@ body
 }
 #output
 {
-background: white;
+background: orange;
 border-radius: 10px;
 border-top: 10px solid #AA4465;
 padding: 10px;
